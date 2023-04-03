@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b424f8a76f4464e97151225e691ce1, type: 3}
+  m_Name: Scene1
+  m_EditorClassIdentifier: 
+  sceneBank:
+  - Common Nature
+  eventsOnStart:
+  - Guid:
+      Data1: 1981805445
+      Data2: 1228505601
+      Data3: -1801635405
+      Data4: 1635369336
+    Path: event:/Ambience 2D
+  - Guid:
+      Data1: -1804073629
+      Data2: 1171866402
+      Data3: 425134747
+      Data4: 1381172341
+    Path: event:/Music BG
