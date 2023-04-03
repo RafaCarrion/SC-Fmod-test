@@ -20,10 +20,10 @@ MonoBehaviour:
       Data2: 1228505601
       Data3: -1801635405
       Data4: 1635369336
-    Path: event:/Ambience 2D
+    Path: event:/Test Events/Ambience 2D
   - Guid:
       Data1: -1804073629
       Data2: 1171866402
       Data3: 425134747
       Data4: 1381172341
-    Path: event:/Music BG
+    Path: event:/Test Events/Music BG
