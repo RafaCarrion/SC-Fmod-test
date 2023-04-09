@@ -1725,8 +1725,9 @@ namespace FMOD
         public bool hasHandle()     { return this.handle != IntPtr.Zero; }
         public void clearHandle()   { this.handle = IntPtr.Zero; }
 
-        #endregion
-    }
+
+		#endregion
+	}
 
 
     /*

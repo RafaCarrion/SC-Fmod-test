@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{753ebc29-f28d-4947-b3b4-1218ec316fea}">
+		<property name="assetPath">
+			<value>tomp3.cc - Radio Tuning Sound Effect  HD .mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>19.408979591836733</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c625527e-76cf-4973-b4ab-c3187bc15746}</destination>
+		</relationship>
+	</object>
+</objects>

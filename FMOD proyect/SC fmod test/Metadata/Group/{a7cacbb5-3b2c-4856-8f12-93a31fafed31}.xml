@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="MixerGroup" id="{a7cacbb5-3b2c-4856-8f12-93a31fafed31}">
+		<property name="volume">
+			<value>-19.5</value>
+		</property>
 		<property name="name">
-			<value>Track 1</value>
+			<value>TrackTest</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{8e0ef1e5-f1d7-4c65-a5a1-b2bcd2fe9996}</destination>

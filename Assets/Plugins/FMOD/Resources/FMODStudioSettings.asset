@@ -309,6 +309,7 @@ MonoBehaviour:
   - Master
   Banks:
   - Common Nature
+  - Radio
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0
